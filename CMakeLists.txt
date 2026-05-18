@@ -8,7 +8,7 @@ else()
 endif()
 set(CMAKE_CXX_VISIBILITY_PRESET hidden)
 
-project(GrandpaDemon VERSION 1.0.0)
+project(GGrandpaDemon VERSION 1.0.0)
 
 # Use GLOB_RECURSE instead of GLOB
 # to recursively add all source files 
